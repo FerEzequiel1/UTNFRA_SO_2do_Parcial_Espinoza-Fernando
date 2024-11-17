@@ -57,3 +57,12 @@ cd /usr/local/bin
 ls -l
 cd
 git init 
+git add .
+git remote add origin https://github.com/FerEzequiel1/UTNFRA_SO_2do_Parcial_Espinoza-Fernando.git
+git commit -m "enlace"
+git push origin main
+git push origin master
+git push origin main
+git push origin master
+git status
+git add 
