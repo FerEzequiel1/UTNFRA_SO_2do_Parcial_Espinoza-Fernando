@@ -66,3 +66,6 @@ git push origin main
 git push origin master
 git status
 git add 
+git add .
+git commit -m "enlace"
+git push origin main
