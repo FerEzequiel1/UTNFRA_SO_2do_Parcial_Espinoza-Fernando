@@ -1,0 +1,300 @@
+# Vim 9.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq
+|2,0,1731890420,,"wq"
+:q
+|2,0,1731888513,,"q"
+:q!
+|2,0,1731884762,,"q!"
+:wq!
+|2,0,1731884570,,"wq!"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de depuración (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""-	CHAR	0
+	a
+|3,1,36,0,1,0,1731884118,"a"
+
+# Marcas en el archivo:
+'0  31  127  ~/RTA_Examen_20241117/Punto_B.sh
+|4,48,31,127,1731890420,"~/RTA_Examen_20241117/Punto_B.sh"
+'1  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,49,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+'2  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,50,23,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+'3  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,51,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+'4  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,52,1,494,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+'5  23  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,53,23,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+'6  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,54,1,494,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+'7  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,55,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+'8  1  0  ~/pwd
+|4,56,1,0,1731888513,"~/pwd"
+'9  46  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,57,46,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+
+# Lista de saltos (el más reciente va primero):
+-'  31  127  ~/RTA_Examen_20241117/Punto_B.sh
+|4,39,31,127,1731890420,"~/RTA_Examen_20241117/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_B.sh
+|4,39,1,0,1731890101,"~/RTA_Examen_20241117/Punto_B.sh"
+-'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/pwd
+|4,39,1,0,1731888513,"~/pwd"
+-'  46  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,46,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  25  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,25,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  45  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,45,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  24  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,24,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  45  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,45,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  24  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,24,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  24  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,24,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  46  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,46,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  25  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,25,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  45  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,45,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  24  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,24,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  45  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,45,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  24  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,24,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  24  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,24,0,1731884762,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,0,1731884641,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,0,1731884641,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,0,1731884641,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,39,1,0,1731884641,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+-'  23  0  /usr/local/bin/Espinoza
+|4,39,23,0,1731884580,"/usr/local/bin/Espinoza"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/RTA_Examen_20241117/Punto_B.sh
+	*	1731890416	0
+	"	31	127
+	^	31	128
+	.	2	0
+	+	31	124
+	+	31	120
+	+	29	22
+	+	2	0
+
+> /usr/local/bin/EspinozaAltaUser-Groups.sh
+	*	1731889740	0
+	"	13	69
+	^	13	70
+	.	13	69
+	+	45	12
+	+	1	494
+	+	23	11
+	+	20	0
+	+	13	69
+
+> ~/pwd
+	*	1731888510	0
+	"	1	0
+
+> /usr/local/bin/Espinoza
+	*	1731884577	0
+	"	23	0
+	^	23	0
+	.	24	0
+	+	3	22
+	+	3	44
+	+	4	9
+	+	23	163
+	+	4	22
+	+	23	162
+	+	23	0
+	+	23	135
+	+	24	0

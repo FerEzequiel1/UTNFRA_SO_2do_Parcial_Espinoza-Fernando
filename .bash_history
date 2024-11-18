@@ -69,3 +69,79 @@ git add
 git add .
 git commit -m "enlace"
 git push origin main
+git add .
+git commit -m "enlace"
+git push
+git push origin master
+Username for 'https://github.com': FerEzequiel1
+git push origin master
+cd 
+cd RTA_Examen_20241117/
+vim Punto_A
+vim Punto_A.sh 
+ls -l
+sudo vim Punto_A.sh 
+sudo chmod 777 Punto_A.sh 
+sudo vim Punto_A.sh 
+sudo dnf install vim -y
+sudo vim Punto_A.sh 
+cat Punto_A.sh 
+git add .
+git commit -m "Subida de punto a"
+git push origin master
+cd
+[200~/usr/local/bin/<tu-apellido>AltaUser-Groups.sh
+~cd
+cd /usr/local/bin
+ls -l
+vim Espinoza AltaUser-Groups.sh
+ls -la
+vim EspinozaAltaUser-Groups.sh
+ls -la
+cat << eof >> EspinozaAltaUser-Groups.sh
+#!/bin/bash
+eof
+
+sudo #!/bin/bash
+cd
+cd a
+cd /usr/local/bin/
+ls -la
+sudo cat << EOF >> EspinozaAltaUser-Groups.sh
+#!/bin/bash
+EOF
+
+pwe
+pwd
+ls -la
+a
+vim pwd
+pwd
+cd /usr/local/bin/
+pdw
+pwd
+vim EspinozaAltaUser-Groups.sh 
+pwd
+ls -la
+cd home
+cd
+cd UTN-FRA_SO_Examenes/202406/bash_script/
+ls -la
+sudo /usr/local/bin/EspinozaAltaUser-Groups.sh /home/fernando/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt fernando
+cd
+cd /usr/local/bin/
+vim EspinozaAltaUser-Groups.sh 
+sudo /usr/local/bin/EspinozaAltaUser-Groups.sh /home/fernando/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt fernando
+vim EspinozaAltaUser-Groups.sh 
+sudo /usr/local/bin/EspinozaAltaUser-Groups.sh /home/fernando/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt fernando
+cat /etc/group
+cat /etc/shadow
+sudo cat /etc/shadow
+cd
+cd RTA_Examen_20241117/
+sudo chmod 777 Punto_B.sh
+vim Punto_B.sh 
+cd
+cd RT
+cd RTA_Examen_20241117
+cd
