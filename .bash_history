@@ -246,3 +246,57 @@ ls -la
 cd
 docker ps
 cd
+git add .
+git commit -m "Subida de punto C"
+git push origin master
+sudo dnf install -y ansible
+ansible --version
+cd 
+cd UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/
+ls -l
+vim main.yml 
+cat main.yml 
+cd
+cd UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/
+ls -l
+mkdir templates 
+cd templates
+cat << EOF >
+EOF
+
+cat << EOF > template_01.j2
+Nombre: Fernando Apellido: Espinoza 
+Division: 113 
+EOF
+
+cat << EOF > template_02.j2
+IP: {{ ansible_default_ipv4.address }}
+Distribucion: {{ ansible_facts.distribution }}
+Cantidad de cores: {{ ansible_facts.ansible_processor_cores }}
+EOF
+
+cd 
+cd UTN-FRA_SO_Examenes/202406/ansible/
+ls -l
+ansible-playbook -K -i inventory/hosts playbook.yml 
+cd
+cd UTN-FRA_SO_Examenes/202406/ansible/
+vim roles/2do_parcial/tasks/main.yml 
+cd roles/2do_parcial/templates/template_02
+vim roles/2do_parcial/templates/template_02.j2
+ansible-playbook -K -i inventory/hosts playbook.yml 
+cd
+cd RTA_Examen_20241117
+ls -la
+chmod 777 Punto_D.sh 
+vim Punto_D.sh 
+cat Punto_D.sh 
+vim roles/2do_parcial/templates/template_02.j2
+cat roles/2do_parcial/templates/template_02.j2
+cd
+cd UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/
+ls -la
+cat template_02.j2
+cat template_01.j2
+c
+cd

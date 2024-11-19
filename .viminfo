@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Historia de LÃ­nea de Ã³rdenes (de lo mÃ¡s nuevo a lo mÃ¡s antiguo):
-:wq
-|2,0,1731978040,,"wq"
 :q
-|2,0,1731888513,,"q"
+|2,0,1731980436,,"q"
+:wq
+|2,0,1731980332,,"wq"
 :q!
 |2,0,1731884762,,"q!"
 :wq!
@@ -29,235 +29,278 @@
 # Historia de LÃ­nea de depuraciÃ³n (de lo mÃ¡s nuevo a lo mÃ¡s antiguo):
 
 # Registros:
+"q	CHAR	0
+	!!€kb€kb€kb
+|3,0,26,0,1,0,1731980311,"!!€kb€kb€kb"
 ""-	CHAR	0
-	a
-|3,1,36,0,1,0,1731884118,"a"
+	s
+|3,1,36,0,1,0,1731980157,"s"
 
 # Marcas en el archivo:
-'0  30  0  ~/RTA_Examen_20241117/Punto_C.sh
-|4,48,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
-'1  5  17  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,49,5,17,1731973567,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
-'2  31  127  ~/RTA_Examen_20241117/Punto_B.sh
-|4,50,31,127,1731890420,"~/RTA_Examen_20241117/Punto_B.sh"
-'3  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,51,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
-'4  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,52,23,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
-'5  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,53,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
-'6  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,54,1,494,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
-'7  23  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,55,23,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
-'8  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,56,1,494,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
-'9  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,57,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+'0  1  0  ~/RTA_Examen_20241117/roles/2do_parcial/templates/template_02.j2
+|4,48,1,0,1731980436,"~/RTA_Examen_20241117/roles/2do_parcial/templates/template_02.j2"
+'1  64  0  ~/RTA_Examen_20241117/Punto_D.sh
+|4,49,64,0,1731980332,"~/RTA_Examen_20241117/Punto_D.sh"
+'2  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+|4,50,3,21,1731979963,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2"
+'3  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,51,30,3,1731979838,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'4  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,52,30,3,1731979142,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+'5  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,53,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+'6  5  17  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,54,5,17,1731973567,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+'7  31  127  ~/RTA_Examen_20241117/Punto_B.sh
+|4,55,31,127,1731890420,"~/RTA_Examen_20241117/Punto_B.sh"
+'8  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,56,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
+'9  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
+|4,57,23,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
 
 # Lista de saltos (el mÃ¡s reciente va primero):
+-'  1  0  ~/RTA_Examen_20241117/roles/2do_parcial/templates/template_02.j2
+|4,39,1,0,1731980436,"~/RTA_Examen_20241117/roles/2do_parcial/templates/template_02.j2"
+-'  64  0  ~/RTA_Examen_20241117/Punto_D.sh
+|4,39,64,0,1731980332,"~/RTA_Examen_20241117/Punto_D.sh"
+-'  64  0  ~/RTA_Examen_20241117/Punto_D.sh
+|4,39,64,0,1731980332,"~/RTA_Examen_20241117/Punto_D.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_D.sh
+|4,39,1,0,1731980111,"~/RTA_Examen_20241117/Punto_D.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_D.sh
+|4,39,1,0,1731980111,"~/RTA_Examen_20241117/Punto_D.sh"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+|4,39,3,21,1731979963,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+|4,39,3,21,1731979963,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+|4,39,3,21,1731979963,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2"
+-'  3  21  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+|4,39,3,21,1731979963,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+|4,39,1,0,1731979924,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+|4,39,1,0,1731979924,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+|4,39,1,0,1731979924,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+|4,39,1,0,1731979924,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979838,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979838,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979838,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979838,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979838,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979838,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979838,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979838,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979142,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979142,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979142,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979142,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979142,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979142,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979142,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  3  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,30,3,1731979142,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+|4,39,1,0,1731978990,"~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
 -'  30  0  ~/RTA_Examen_20241117/Punto_C.sh
 |4,39,30,0,1731978040,"~/RTA_Examen_20241117/Punto_C.sh"
 -'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
 |4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
--'  5  17  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,17,1731973567,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  5  17  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,5,17,1731973567,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731973500,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
-|4,39,1,0,1731973500,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
--'  31  127  ~/RTA_Examen_20241117/Punto_B.sh
-|4,39,31,127,1731890420,"~/RTA_Examen_20241117/Punto_B.sh"
--'  31  127  ~/RTA_Examen_20241117/Punto_B.sh
-|4,39,31,127,1731890420,"~/RTA_Examen_20241117/Punto_B.sh"
--'  31  127  ~/RTA_Examen_20241117/Punto_B.sh
-|4,39,31,127,1731890420,"~/RTA_Examen_20241117/Punto_B.sh"
--'  31  127  ~/RTA_Examen_20241117/Punto_B.sh
-|4,39,31,127,1731890420,"~/RTA_Examen_20241117/Punto_B.sh"
--'  1  0  ~/RTA_Examen_20241117/Punto_B.sh
-|4,39,1,0,1731890101,"~/RTA_Examen_20241117/Punto_B.sh"
--'  1  0  ~/RTA_Examen_20241117/Punto_B.sh
-|4,39,1,0,1731890101,"~/RTA_Examen_20241117/Punto_B.sh"
--'  1  0  ~/RTA_Examen_20241117/Punto_B.sh
-|4,39,1,0,1731890101,"~/RTA_Examen_20241117/Punto_B.sh"
--'  1  0  ~/RTA_Examen_20241117/Punto_B.sh
-|4,39,1,0,1731890101,"~/RTA_Examen_20241117/Punto_B.sh"
--'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  13  69  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,13,69,1731889744,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  23  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,23,10,1731889598,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  10  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,10,1731889546,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  494  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,494,1731889451,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  22  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,22,0,1731888662,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  0  /usr/local/bin/EspinozaAltaUser-Groups.sh
-|4,39,1,0,1731888592,"/usr/local/bin/EspinozaAltaUser-Groups.sh"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
--'  1  0  ~/pwd
-|4,39,1,0,1731888513,"~/pwd"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241117/Punto_C.sh
+|4,39,1,0,1731977661,"~/RTA_Examen_20241117/Punto_C.sh"
 
 # Historia de las marcas en los archivos (de la mÃ¡s reciente a la mÃ¡s antigua):
+
+> ~/RTA_Examen_20241117/roles/2do_parcial/templates/template_02.j2
+	*	1731980433	0
+	"	1	0
+
+> ~/RTA_Examen_20241117/Punto_D.sh
+	*	1731980322	0
+	"	64	0
+	^	62	0
+	.	57	22
+	+	63	51
+	+	6	0
+	+	7	0
+	+	41	3
+	+	42	0
+	+	50	14
+	+	51	12
+	+	57	22
+
+> ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates/template_02.j2
+	*	1731979961	0
+	"	3	21
+	^	3	22
+	.	3	22
+	+	2	0
+	+	3	22
+
+> ~/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/main.yml
+	*	1731979805	0
+	"	30	3
+	^	30	4
+	.	33	0
+	+	2	0
+	+	32	28
+	+	17	0
+	+	16	0
+	+	15	0
+	+	22	0
+	+	25	0
+	+	33	0
 
 > ~/RTA_Examen_20241117/Punto_C.sh
 	*	1731978036	0
