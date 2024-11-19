@@ -145,3 +145,104 @@ cd
 cd RT
 cd RTA_Examen_20241117
 cd
+git add .
+git commit -m "Subida punto B"
+git push origin master
+pwd
+$howmine
+howmine
+sudo dnf remove docker                   docker-client                   docker-client-latest                   docker-common                   docker-latest                   docker-latest-logrotate                   docker-logrotate                   docker-selinux                   docker-engine-selinux                   docker-engine
+sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo systemctl enable --now docker
+sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo dnf -y install dnf-plugins-core
+sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
+sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo systemctl enable --now docker
+sudo docker run hello-world
+docker --version
+docker info
+clear
+docker info
+docker login -u fernandoezequiel23
+cat /etc/groups
+pwd
+cat /etc/group
+sudo usermode -a -G docker fernando
+sudo usermod -a -G docker fernando
+cd 
+cd UTN-FRA_SO_Examenes/202406/docker
+ls -l
+cat index.html 
+vim index.html 
+cat <<EOF >> dockerfile
+FROM nginx:latest
+
+COPY index.html /usr/share/nginx/html/index.html
+
+EOF
+
+docker build -t web1-espinoza
+sudo docker build -t web1-espinoza
+docker buildx build --help
+docker tag web1-espinoza fernandoezequiel23/web1-espinoza
+docker ps
+docker build -t web1-espinoza
+docker build -t web1-espinoza .
+pwd
+cd UTN-FRA_SO_Examenes/202406/docker/
+pwd
+docker build -t web1-espinoza .
+docker tag web1-espinoza fernandoezequiel23/web1-espinoza
+docker push fernandoezequiel23/web1-espinoza
+cat <<TEOF>> run.sh
+#!/bin/bash
+docker run -d -p 8080:80 fernandoezequiel23/web1-espinoza
+TEOF
+
+chmod +x run.sh 
+./run.sh 
+ip addr show
+ip addr
+hostname -I
+docker ps
+ping 127.0.0.1
+ping localhost
+ip addr
+ping localhost
+ping -4 localhost
+sudo nano /etc/hosts
+ping localhost
+ping -4 localhost
+sudo nano /etc/hosts
+localhost
+ping localhost
+sudo nano /etc/hosts
+sudo nano /etc/gai.conf
+sudo systemctl restart network
+sudo systemctl restart NetworkManager
+ping localhost
+ip addr
+hostname -I
+sudo systemctl stop apache2
+pwd
+docker run -d -p 80:80 
+docker run -d -p 80:80 fernandoezequiel23/web1-espinoza
+cd 
+pwd
+cd RTA_Examen_20241117/
+ls -l
+chmod 777 Punto_C.sh 
+vim Punto_C.sh 
+cat Punto_C.sh 
+docker ps
+docker stop 5a6
+docker stop b60
+cd
+cd UTN-FRA_SO_Examenes/202406/docker/
+pwd
+ls -la
+./run.sh
+cd
+docker ps
+cd

@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Sun, 17 Nov 2024 22:16:32 GMT -->
+  <!-- Cached: Tue, 19 Nov 2024 01:05:06 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -22,7 +22,7 @@
     [native code]
 }" data-preference="feeds.topsites" data-eventSource="TOP_SITES" data-l10n-id="newtab-custom-shortcuts-toggle" data-l10n-attrs="label, description"></moz-toggle><div><div class="more-info-top-wrapper"><div class="more-information"><select id="row-selector" class="selector" name="row-count" data-preference="topSitesRows" aria-labelledby="custom-shortcuts-title"><option selected="" value="1" data-l10n-id="newtab-custom-row-selector" data-l10n-args="{&quot;num&quot;: 1}"></option><option value="2" data-l10n-id="newtab-custom-row-selector" data-l10n-args="{&quot;num&quot;: 2}"></option><option value="3" data-l10n-id="newtab-custom-row-selector" data-l10n-args="{&quot;num&quot;: 3}"></option><option value="4" data-l10n-id="newtab-custom-row-selector" data-l10n-args="{&quot;num&quot;: 4}"></option></select><div class="check-wrapper" role="presentation"><input type="checkbox" id="sponsored-shortcuts" class="sponsored-checkbox" checked="" data-preference="showSponsoredTopSites" data-eventSource="SPONSORED_TOP_SITES"/><label class="sponsored" for="sponsored-shortcuts" data-l10n-id="newtab-custom-sponsored-sites"></label></div></div></div></div></div><div id="recent-section" class="section"><label class="switch"><moz-toggle id="highlights-toggle" onToggle="function() {
     [native code]
-}" data-preference="feeds.section.highlights" data-eventSource="HIGHLIGHTS" data-l10n-id="newtab-custom-recent-toggle" data-l10n-attrs="label, description"></moz-toggle></label></div><span class="divider" role="separator"></span><div><button id="settings-link" class="external-link" data-l10n-id="newtab-custom-settings"></button></div></div></div></span></menu><div class="weatherWrapper"></div><div class="outer-wrapper ds-outer-wrapper-breakpoint-override visible-logo"><main><div class="non-collapsible-section"><div class="search-wrapper"><div class="logo-and-wordmark"><div class="logo"></div><div class="wordmark"></div></div><div class="search-inner-wrapper"><button class="search-handoff-button" tabindex="-1"><div class="fake-textbox"></div><input type="search" class="fake-editable" tabindex="-1" aria-hidden="true"/><div class="fake-caret"></div></button></div></div></div><div class="body-wrapper on"><div class="discovery-stream ds-layout"><div class="ds-column ds-column-12"><div class="ds-column-grid"><div><div class="ds-top-sites"><section class="collapsible-section top-sites" data-section-id="topsites"><div class="section-top-bar"><h3 class="section-title-container " style="visibility:hidden"><span class="section-title"><span data-l10n-id="newtab-section-header-topsites"></span></span></h3></div><div><ul class="top-sites-list"><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://start.fedoraproject.org/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper letter-fallback" data-fallback="s" style="background-color:#0090ED"><div class=""></div></div></div><div class="title has-icon pinned"><span dir="auto"><div class="icon icon-pin-small"></div>start.fedoraproject</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;start.fedoraproject&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.youtube.com/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="Y"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/youtube-com@2x.png)"></div></div></div><div class="title"><span dir="auto">YouTube</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.facebook.com/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="F"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/facebook-com@2x.png)"></div></div></div><div class="title"><span dir="auto">Facebook</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Facebook&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.wikipedia.org/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="W"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/wikipedia-org@2x.png)"></div></div></div><div class="title"><span dir="auto">Wikipedia</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.reddit.com/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="R"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/reddit-com@2x.png)"></div></div></div><div class="title"><span dir="auto">Reddit</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://twitter.com/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="T"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/twitter-com@2x.png)"></div></div></div><div class="title"><span dir="auto">Twitter</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Twitter&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer placeholder hide-for-narrow add-button"><div class="top-site-inner"><a class="top-site-button" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="n"><div class=""></div></div></div><div class="title"><span dir="auto" data-l10n-id="newtab-topsites-add-shortcut-label">newtab-topsites-add-shortcut-label</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div class="topsite-impression-observer"></div></div></li></ul><div class="edit-topsites-wrapper"></div></div></section></div></div></div></div><style data-styles="[[null]]"></style></div><div class="discovery-stream ds-layout"><div class="ds-column ds-column-12"><div class="ds-column-grid"><div></div></div></div><style data-styles="[[null]]"></style></div></div></main><aside></aside></div></div>
+}" data-preference="feeds.section.highlights" data-eventSource="HIGHLIGHTS" data-l10n-id="newtab-custom-recent-toggle" data-l10n-attrs="label, description"></moz-toggle></label></div><span class="divider" role="separator"></span><div><button id="settings-link" class="external-link" data-l10n-id="newtab-custom-settings"></button></div></div></div></span></menu><div class="weatherWrapper"></div><div class="outer-wrapper ds-outer-wrapper-breakpoint-override visible-logo"><main><div class="non-collapsible-section"><div class="search-wrapper"><div class="logo-and-wordmark"><div class="logo"></div><div class="wordmark"></div></div><div class="search-inner-wrapper"><button class="search-handoff-button" tabindex="-1"><div class="fake-textbox"></div><input type="search" class="fake-editable" tabindex="-1" aria-hidden="true"/><div class="fake-caret"></div></button></div></div></div><div class="body-wrapper on"><div class="discovery-stream ds-layout"><div class="ds-column ds-column-12"><div class="ds-column-grid"><div><div class="ds-top-sites"><section class="collapsible-section top-sites" data-section-id="topsites"><div class="section-top-bar"><h3 class="section-title-container " style="visibility:hidden"><span class="section-title"><span data-l10n-id="newtab-section-header-topsites"></span></span></h3></div><div><ul class="top-sites-list"><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://start.fedoraproject.org/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper letter-fallback" data-fallback="s" style="background-color:#0090ED"><div class=""></div></div></div><div class="title has-icon pinned"><span dir="auto"><div class="icon icon-pin-small"></div>start.fedoraproject</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;start.fedoraproject&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="http://172.17.0.1:8080/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper letter-fallback" data-fallback="1" style="background-color:#FF7139"><div class=""></div></div></div><div class="title"><span dir="auto">172.17.0.1</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;172.17.0.1&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://fedoraproject.org/start" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="f"><div></div><div class="top-site-icon default-icon" data-fallback="" style="background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAIs0lEQVRoQ8Waa3BV1RXH/+ucm/eTvMMbAyRAKWhosbwmMyBtEQN0rFNrJQlMG2EUCnRqO6VFwTrOVNpqywdHQZKiIBZJgsC0Y4oFRCVJCUSFPHgGEyDvx819nr06+yS5SUhyz7lwwd/HZL/+e+2191rrXMLdQZk7L4RbAoPDnXClWoTIAJDOoIlElAiICALZmdEO4BYUnAcrZWDthFO4r6lOW/uh3Fldd7MEupPOGcfYEnG95tskeKECLAAhHUASweR4DMHga4DyOcCfsEbFhTkTz4OIfV2PzwKW5lWOshBeJCiLAE4GEOjrpL0wwARIC9WBcMDhplePrprU4Mt4pgVkvH0mOgJhT6sqXiIg0pdJzMLM9RrTJocSWfTvlUlWM/1MCcjcXTNXIfEHIsgzfsc7bgYGnGA+CEGvFORMLjfqYyCAaXl+dRaAbQQaCbBiNKCf0Bh8lTU8V5iTesTbmMMKyHjhmCXqgZG5BHr5Xh0ZIxhog8DqgNDygvefeEIbqv1wAmhZXuUaBdgGohijie4lzKgF4/mC7Ml7TQvIzDufpZD6+je18/2RNxWAJmb1ycKslI9uFzHIAst21cwhi3iPgNH+3NkglRBkIagKyV2FWzDsbgG3MDeLtIRqURceeCqlun+PAQIWvXExKiLEvQ9QFvvLYYMthLnjIzAjORRjowIREaRCY0azzY1LTQ6cqevC/762Sq81gDRm3tNpV9d/lJvS1tt4gIDM/KpnVOA1f12VI0JUPDcnEanxIboQooEGZ2Z0OgXK66zYWdKAdod3czBgFaq6suiplA8GCVjy9uWkQNV1noBoo70wQ1yYBb9ekISJcSGGzaWQ/17qwM7SBlidBiIY1bX29pllPTGUviU/3s+q21a9A4Rcw9lMEKASctLj8MikKP3M99Lh0FDX7oT8U2J4gH6ceq0ifWL/uSb8s6LFcAYheGthduoW2VAffek/KmdYmA4SMMGwtwniwyz405IxiAy26K3lDp+u7cS+s826CDlrZJCKx6fHYPaYcI9Iq1PDuqKraLENeeV7EMyXnU77gqM/n3FdF5CZV7lRkQ8WIcjE+gxZPCkSzzyc6Fl8xY0u/OXkTbTZBy4sKkjF5oUjkRIb7BlzV8ktfHjB46PDQF0aa7lFWWl7KGPHl+HR4ZY9RLRsuOa+svbheCya1O1K8mjsLm3AkcqhF/X49BH46cw4zxQnLrfrYr3R8za8qdnaN1CP85b4897fOD8R88Z3B6wOt8DfT93EJ1c7h1zTookRWPu9JM//Sms78fLH9V4F6MeSqIxd9hX02M7KeWoAHTedjJhg0/xEzO0nYMenN3HyytAC5HHLnZ3gcebi6jbs+OyW4SzM6IIFc2n57qrNpGCbYQ8fuN0C3gTEhlqwfm4iJscHo77dpbetaXIYzqYfIw2raHle1QEi/Miwhw/4IkASHawiMliFzSXQYHWbnokZr9Gy/KovFGCa6V4m8MUH7gZmKqTl+VUNBPRdA37gvgkATksBDvIxTYwNVTFzZChSYoIRHqhAUQgyVfvsmhUnrnRgQ79bSBOMS80OtNjcnsBLvsb7zzXD5jaM4Lxfp4SvaEV+lalR5Isnz+pjU6Px/clRCAlQBw1+oKIZ75Y3DRAwHMdq2vC3T41vG28wcN6UABm7fHdMGJ6cEYsx0cM/1r4IuNxsx6bDtXd1YBlcYkrAxNggPJ+RjJgQy6CQuD8eAfMSMW/C8JUXGRvtKmnA4WFeZ7MwcMhQQGgA4dUlY5EU2V1NkZPL8KDVruGLG1242uKEUxN6lnWx2aHf4Rv7CXBpMlRuR02TXW8jGLjW6kC1ibveCCF4h1cB8txnPRSLzGl9eX2XS8MHFc0ovtgxKDjrpb8Ao1DijiFiAV7tVUBCmAW/XzgKo6L6aln7yhtx8MtWuORWDsN9EQCyOYV7vlcB3xkdhmfnJOqJh+RWpxNrC67qx8AbtwvwFkrcBWfdUDO9CvhhahSy0+MQoHYX5I5caMFbJY2Gc95rC3QXhektty3sl14FLJsajZ89GOfJmPaWN+J9EynfrxYkYc64CF2o3SXw+qkb+iPnP8jG4LUFKyfv9ipAPlgytw20dFvg+OV2/NUg2ZCOv/3RMRgf051lSafffvyGXj7xF3q1TmgLCnKmXPEqYGZyKNbPS0RUT24r89nfHK1FfYdr2LVMiQ/G1sWjPVZrtbmx+V/XUeelj68I5pcLs1J/J/t5FRARpGDrI6MxbkTf63u2zortJ27o9ZzbkTHSxvnJmJLQV0qpqLfixeI6Q8f3gSstWsCDH+dMaDUUIFmaFoXsWfFQeopSghml161490yTXl2TVTaVSF/8qlkJ+FZSiOe1dmkCLxXXoeKmzYf1DQ8zHILF6qLstHd6Wxm+xIEq6dW1OePCB4QRXU4NtW1OdDkFwoMUPUYK7vEViVtjFH3Vgj3lTX5ZvPyuJhh7iQOeLejZfVMWkPSmfdMS+3bXG9JKMnzYXdaIDoNyoVnk5ycB/kFRVtq5/n0MLdCLfJV/MTsBUxNC9Crz7XVOiYyTZFpYcr0Tb55uRJfLZOnZEO5kDU8X5KQW3N7UtACJPE4PjQpF+sgwjI8J0uufgaqi3/UNVheqGu0o+9qKc/U2vajvD+QXTGb+bWF2av5Q4/kkoBdpgfBAVa84S+eWjixFdDiFHn36CwY6AKyrtbW/U5Y7a8i7W6aUbgIGp1ffLPLsNQrmdYVZqe95Wwotz6u8RER+Ker6CadMVATEK0Ur00qNxqQV+dV/BniDUcP7ActvYeAtnSz2FWdNMXX/0qO7qh4IUHEChGR/lhfN0PNTA1mbaGbmQ+zmLUWr0+rM9O2F5McNR1fNTxRF/JFA43zpfKfoC5e3C+FzBp3UXI7/fFg7rQIvkM/3rv59IP2N0oCxIdGpgrU1ClEmQ7eGXxybZQUT6CCiWwyqIeZyjfmUYLWKbdbGw2umt97Jr1R6+T8XhBkvWpkSrAAAAABJRU5ErkJggg==)"></div></div></div><div class="title"><span dir="auto">fedoraproject</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;fedoraproject&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.youtube.com/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="Y"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/youtube-com@2x.png)"></div></div></div><div class="title"><span dir="auto">YouTube</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.facebook.com/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="F"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/facebook-com@2x.png)"></div></div></div><div class="title"><span dir="auto">Facebook</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Facebook&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.wikipedia.org/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="W"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/wikipedia-org@2x.png)"></div></div></div><div class="title"><span dir="auto">Wikipedia</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer hide-for-narrow"><div class="top-site-inner"><a class="top-site-button" href="https://www.reddit.com/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="R"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/reddit-com@2x.png)"></div></div></div><div class="title"><span dir="auto">Reddit</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer hide-for-narrow"><div class="top-site-inner"><a class="top-site-button" href="https://twitter.com/" tabindex="0" draggable="true" data-is-sponsored-link="false"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="T"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/twitter-com@2x.png)"></div></div></div><div class="title"><span dir="auto">Twitter</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Twitter&quot;}" class="context-menu-button icon"></button></div><div class="topsite-impression-observer"></div></div></li></ul><div class="edit-topsites-wrapper"></div></div></section></div></div></div></div><style data-styles="[[null]]"></style></div><div class="discovery-stream ds-layout"><div class="ds-column ds-column-12"><div class="ds-column-grid"><div></div></div></div><style data-styles="[[null]]"></style></div></div></main><aside></aside></div></div>
     </div>
     <div id="footer-asrouter-container" role="presentation"></div>
     <script src="about:home?jscache"></script>
@@ -45,7 +45,39 @@ window.__STARTUP_STATE__ = {
 				"isPinned": true,
 				"pinIndex": 0,
 				"typedBonus": true,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fstart.fedoraproject.org%2F&revision=7819"
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fstart.fedoraproject.org%2F&revision=3081"
+			},
+			{
+				"bookmarkGuid": null,
+				"frecency": 8000,
+				"guid": "4cgdiW2fiVvl",
+				"lastVisitDate": 1731978248941,
+				"title": null,
+				"url": "http://172.17.0.1:8080/",
+				"type": "history",
+				"hostname": "172.17.0.1",
+				"typedBonus": true,
+				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2F172.17.0.1%3A8080%2F&revision=7543"
+			},
+			{
+				"bookmarkGuid": null,
+				"frecency": 450,
+				"guid": "IivIBwrxmNFv",
+				"lastVisitDate": 1731978297650,
+				"title": "Fedora Start | The Fedora Project",
+				"url": "https://fedoraproject.org/start",
+				"type": "history",
+				"favicon": "data:image/png;base64,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",
+				"faviconLength": 2284,
+				"faviconRef": "",
+				"faviconSize": 48,
+				"smallFavicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACW0lEQVQ4T3WTXUhTYRjHf++c2xyoE4dZ0NRsiY3CLiLsIujjprI1KbqIAsEYdSOFFF12r2kRpV1I6GVGrqJmlIIQEUVeNAY1RZcriqDjNr/m5jlvnGMuP9b/4j2c9zzP7zz/53lfwTp5e8f2CCH8AnkIZKVAqBI5iZTDqjR1P2tyh1eniJWX+o5YQZkzddsEzSBN68HLEqqGvGuxZa72n/GkjR19qe94W1Be6hxEcCB34lpJycuxyYw3fMOTNgC+vsh9Af71yfrHozXF7Cq38z2ZJhCeZjatGWFSiI7AeXer8D2I1Ik8PgIbyj5bV4p3p4MPsTncThsziyrXXsSQOgCW0lL1CF9f5J6AS7lK726sZHg8ycOQQoXDQueJCi4//cpUwrCPJmnXAZ8F1OQC9Jyu4lFIIfglgc0saNm/ia53v5j5awMY1QEpAdYVgB64pchCfGGJtuMuRiaSvInOMqEsbvyHlIpo7Ivolgwdri6keW8ZtnwT/Z9+c2R7MSV2M1JKWp9PEZ1eLj0ryT/A1mILnQ0uBsIKQ+NJkosad7wVBCNxXo8liafUXC5HsxV4ax001DrwP45mA3tOVdEfUhiMJHIfD72JKxYObivEv6+MiwNREikVp91MV2MlbSM/eP9tLhdAVYXmyQKsZkH7MZfxDP2cZ/dmO/EFlevBGGq2S6vsa9wKNO24sqaJRVYTPk8JLoeVCSVFIBxnPrN88tb2jlf5tkyDfh/0MSYEFOU2uSFT06TsSidNrcEWtzFXcbL3ywUhxM3/QSTos9Ov85DMM3c/OVcdWo39Axhd/DryHAynAAAAAElFTkSuQmCC",
+				"smallFaviconLength": 660,
+				"smallFaviconRef": "",
+				"smallFaviconSize": 16,
+				"hostname": "fedoraproject",
+				"typedBonus": true,
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Ffedoraproject.org%2Fstart&revision=2367"
 			},
 			{
 				"isDefault": true,
@@ -143,72 +175,7 @@ window.__STARTUP_STATE__ = {
 		"locale": "es-AR",
 		"isForStartupCache": true,
 		"customizeMenuVisible": false,
-		"links": [
-			{
-				"isDefault": false,
-				"url": "https://start.fedoraproject.org/",
-				"title": "Fedora Project - Start Page",
-				"hostname": "start.fedoraproject",
-				"searchTopSite": false,
-				"isPinned": true,
-				"pinIndex": 0,
-				"typedBonus": true
-			},
-			{
-				"isDefault": true,
-				"url": "https://www.youtube.com/",
-				"hostname": "youtube",
-				"sendAttributionRequest": false,
-				"label": "YouTube",
-				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/youtube-com@2x.png",
-				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/youtube-com.png",
-				"typedBonus": true
-			},
-			{
-				"isDefault": true,
-				"url": "https://www.facebook.com/",
-				"hostname": "facebook",
-				"sendAttributionRequest": false,
-				"label": "Facebook",
-				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/facebook-com@2x.png",
-				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/facebook-com.ico",
-				"typedBonus": true
-			},
-			{
-				"isDefault": true,
-				"url": "https://www.wikipedia.org/",
-				"hostname": "wikipedia",
-				"sendAttributionRequest": false,
-				"label": "Wikipedia",
-				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/wikipedia-org@2x.png",
-				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/wikipedia-org.ico",
-				"typedBonus": true
-			},
-			{
-				"isDefault": true,
-				"url": "https://www.reddit.com/",
-				"hostname": "reddit",
-				"sendAttributionRequest": false,
-				"label": "Reddit",
-				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/reddit-com@2x.png",
-				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/reddit-com.png",
-				"typedBonus": true
-			},
-			{
-				"isDefault": true,
-				"url": "https://twitter.com/",
-				"hostname": "twitter",
-				"sendAttributionRequest": false,
-				"label": "Twitter",
-				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/twitter-com@2x.png",
-				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/twitter-com.ico",
-				"typedBonus": true
-			}
-		],
-		"pref": {
-			"collapsed": false
-		},
-		"lastUpdated": 1731881778575,
+		"lastUpdated": 1731977055487,
 		"spocs": {
 			"settings": {
 				"feature_flags": {
@@ -289,6 +256,101 @@ window.__STARTUP_STATE__ = {
 				"context": "",
 				"items": []
 			}
+		},
+		"links": [
+			{
+				"isDefault": false,
+				"url": "https://start.fedoraproject.org/",
+				"title": "Fedora Project - Start Page",
+				"hostname": "start.fedoraproject",
+				"searchTopSite": false,
+				"isPinned": true,
+				"pinIndex": 0,
+				"typedBonus": true
+			},
+			{
+				"bookmarkGuid": null,
+				"frecency": 8000,
+				"guid": "4cgdiW2fiVvl",
+				"lastVisitDate": 1731978248941,
+				"title": null,
+				"url": "http://172.17.0.1:8080/",
+				"type": "history",
+				"hostname": "172.17.0.1",
+				"typedBonus": true
+			},
+			{
+				"bookmarkGuid": null,
+				"frecency": 450,
+				"guid": "IivIBwrxmNFv",
+				"lastVisitDate": 1731978297650,
+				"title": "Fedora Start | The Fedora Project",
+				"url": "https://fedoraproject.org/start",
+				"type": "history",
+				"favicon": "data:image/png;base64,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",
+				"faviconLength": 2284,
+				"faviconRef": "",
+				"faviconSize": 48,
+				"smallFavicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACW0lEQVQ4T3WTXUhTYRjHf++c2xyoE4dZ0NRsiY3CLiLsIujjprI1KbqIAsEYdSOFFF12r2kRpV1I6GVGrqJmlIIQEUVeNAY1RZcriqDjNr/m5jlvnGMuP9b/4j2c9zzP7zz/53lfwTp5e8f2CCH8AnkIZKVAqBI5iZTDqjR1P2tyh1eniJWX+o5YQZkzddsEzSBN68HLEqqGvGuxZa72n/GkjR19qe94W1Be6hxEcCB34lpJycuxyYw3fMOTNgC+vsh9Af71yfrHozXF7Cq38z2ZJhCeZjatGWFSiI7AeXer8D2I1Ik8PgIbyj5bV4p3p4MPsTncThsziyrXXsSQOgCW0lL1CF9f5J6AS7lK726sZHg8ycOQQoXDQueJCi4//cpUwrCPJmnXAZ8F1OQC9Jyu4lFIIfglgc0saNm/ia53v5j5awMY1QEpAdYVgB64pchCfGGJtuMuRiaSvInOMqEsbvyHlIpo7Ivolgwdri6keW8ZtnwT/Z9+c2R7MSV2M1JKWp9PEZ1eLj0ryT/A1mILnQ0uBsIKQ+NJkosad7wVBCNxXo8liafUXC5HsxV4ax001DrwP45mA3tOVdEfUhiMJHIfD72JKxYObivEv6+MiwNREikVp91MV2MlbSM/eP9tLhdAVYXmyQKsZkH7MZfxDP2cZ/dmO/EFlevBGGq2S6vsa9wKNO24sqaJRVYTPk8JLoeVCSVFIBxnPrN88tb2jlf5tkyDfh/0MSYEFOU2uSFT06TsSidNrcEWtzFXcbL3ywUhxM3/QSTos9Ov85DMM3c/OVcdWo39Axhd/DryHAynAAAAAElFTkSuQmCC",
+				"smallFaviconLength": 660,
+				"smallFaviconRef": "",
+				"smallFaviconSize": 16,
+				"hostname": "fedoraproject",
+				"typedBonus": true
+			},
+			{
+				"isDefault": true,
+				"url": "https://www.youtube.com/",
+				"hostname": "youtube",
+				"sendAttributionRequest": false,
+				"label": "YouTube",
+				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/youtube-com@2x.png",
+				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/youtube-com.png",
+				"typedBonus": true
+			},
+			{
+				"isDefault": true,
+				"url": "https://www.facebook.com/",
+				"hostname": "facebook",
+				"sendAttributionRequest": false,
+				"label": "Facebook",
+				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/facebook-com@2x.png",
+				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/facebook-com.ico",
+				"typedBonus": true
+			},
+			{
+				"isDefault": true,
+				"url": "https://www.wikipedia.org/",
+				"hostname": "wikipedia",
+				"sendAttributionRequest": false,
+				"label": "Wikipedia",
+				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/wikipedia-org@2x.png",
+				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/wikipedia-org.ico",
+				"typedBonus": true
+			},
+			{
+				"isDefault": true,
+				"url": "https://www.reddit.com/",
+				"hostname": "reddit",
+				"sendAttributionRequest": false,
+				"label": "Reddit",
+				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/reddit-com@2x.png",
+				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/reddit-com.png",
+				"typedBonus": true
+			},
+			{
+				"isDefault": true,
+				"url": "https://twitter.com/",
+				"hostname": "twitter",
+				"sendAttributionRequest": false,
+				"label": "Twitter",
+				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/twitter-com@2x.png",
+				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/twitter-com.ico",
+				"typedBonus": true
+			}
+		],
+		"pref": {
+			"collapsed": false
 		}
 	},
 	"Prefs": {
@@ -806,7 +868,7 @@ window.__STARTUP_STATE__ = {
 		},
 		"spocs": {
 			"spocs_endpoint": "https://spocs.getpocket.com/spocs",
-			"lastUpdated": 1731881778575,
+			"lastUpdated": 1731977055487,
 			"data": {
 				"settings": {
 					"feature_flags": {
@@ -1572,4 +1634,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-6$Ω˝æÀ           g:k@Gçe’ˇˇˇˇ       :about:home alt-data 1;11715,script version 20241105195902   ‡
+∆&ìWN           g;‰BGék'ˇˇˇˇ       :about:home alt-data 1;15738,script version 20241105195902  &U
